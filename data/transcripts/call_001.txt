@@ -1,0 +1,99 @@
+[00:01 - 00:05]
+Advisor (Rahul):
+Hello. Good afternoon. Am I speaking with Anita?
+
+[00:05 - 00:06]
+Customer (Anita):
+Yes. Speaking.
+
+[00:07 - 00:15]
+Advisor (Rahul):
+Hi, Anita. This is Rahul from Footnova. You had recently shown interest in our fitness coaching program. Is this a good time to talk?
+
+[00:16 - 00:18]
+Customer (Anita):
+Yeah. I have about five minutes.
+
+[00:19 - 00:22]
+Advisor (Rahul):
+Great. To help you better, may I know your fitness goal?
+
+[00:23 - 00:27]
+Customer (Anita):
+I want to lose weight around eight to 10 kilograms.
+
+[00:27 - 00:31]
+Advisor (Rahul):
+That's a good target. May I know your age and height?
+
+[00:31 - 00:36]
+Customer (Anita):
+I'm 29 years old and five feet four inch tall.
+
+[00:36 - 00:41]
+Advisor (Rahul):
+Do you have any medical condition like thyroid, diabetes, or PCOS?
+
+[00:41 - 00:42]
+Customer (Anita):
+Nope. None.
+
+[00:43 - 00:45]
+Advisor (Rahul):
+Have you tried losing weight before?
+
+[00:46 - 00:50]
+Customer (Anita):
+Yeah. I joined the gym, but I couldn't stay consistent.
+
+[00:50 - 01:02]
+Advisor (Rahul):
+I understand. Consistency is one of the biggest challenges. Our program combines personalized workouts, nutrition guidance, and weekly coach follow ups to help people stay on track.
+
+[01:03 - 01:05]
+Customer (Anita):
+Sounds good. How much does it cost?
+
+[01:05 - 01:13]
+Advisor (Rahul):
+We have multiple plans depending on your goal. Before recommending one, may I know your approximate monthly budget?
+
+[01:13 - 01:16]
+Customer (Anita):
+Around 4 to 5,000 per month.
+
+[01:16 - 01:28]
+Advisor (Rahul):
+Perfect. Based on your goal and budget, I think our three month transformation program would be suitable. It includes one on on coaching, customized type plan, and progress tracking.
+
+[01:32 - 01:34]
+Customer (Anita):
+Do I have to decide today?
+
+[01:34 - 01:44]
+Advisor (Rahul):
+Not at all. We offer a free consultation where one of our coaches evaluates your goal and answer all your question. After that, you can decide without any pressure.
+
+[01:45 - 01:47]
+Customer (Anita):
+That sounds fair.
+
+[01:48 - 01:52]
+Advisor (Rahul):
+Would Saturday at 11AM work for your free consultation?
+
+[01:53 - 01:55]
+Customer (Anita):
+Yeah. Saturday morning is fine.
+
+[01:55 - 02:02]
+Advisor (Rahul):
+Great. I'll book you free consultation for Saturday at 11AM. You'll receive the confirmation on WhatsApp shortly.
+
+[02:03 - 02:03]
+Customer (Anita):
+Thank you.
+
+[02:04 - 02:05]
+Advisor (Rahul):
+You're welcome. Have a great day.

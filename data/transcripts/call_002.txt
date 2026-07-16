@@ -1,0 +1,67 @@
+[00:02 - 00:03]
+Advisor (Priya):
+Hello. Am I speaking with
+
+[00:03 - 00:04]
+Customer (Suresh):
+Suresh?
+
+[00:04 - 00:12]
+Advisor (Priya):
+Yes. I'm Priya from Fitnova. We have a great waste to wait for package for you. You will definitely lose 10 kg in just thirty days.
+
+[00:12 - 00:14]
+Customer (Suresh):
+Really? How is that possible?
+
+[00:14 - 00:18]
+Advisor (Priya):
+Don't worry. Our program works for everyone. 100% guaranteed results.
+
+[00:19 - 00:21]
+Customer (Suresh):
+Okay. How much does it cost?
+
+[00:21 - 00:24]
+Advisor (Priya):
+The plan is 12,000 for three months only.
+
+[00:25 - 00:26]
+Customer (Suresh):
+That's a little expensive.
+
+[00:27 - 00:33]
+Advisor (Priya):
+Actually, today is the last day of our offer. If you don't enroll today, the price will increase tomorrow.
+
+[00:33 - 00:36]
+Customer (Suresh):
+I'm not sure. I'd like to think about it.
+
+[00:37 - 00:40]
+Advisor (Priya):
+Sir, you shouldn't wait. Most people regret missing this offer.
+
+[00:41 - 00:45]
+Customer (Suresh):
+Can I first understand how the program works?
+
+[00:46 - 00:48]
+Advisor (Priya):
+Well, we'll explain everything after the payment.
+
+[00:49 - 00:51]
+Customer (Suresh):
+Okay. I'll think about it.
+
+[00:52 - 00:55]
+Advisor (Priya):
+Fine. Think about it and call us back.
+
+[00:55 - 00:56]
+Customer (Suresh):
+Okay. Bye.
+
+[00:57 - 00:57]
+Advisor (Priya):
+Oh, bye.

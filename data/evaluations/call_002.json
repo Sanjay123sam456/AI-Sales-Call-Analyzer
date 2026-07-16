@@ -1,0 +1,55 @@
+{
+    "overall_score": 3.0,
+    "call_outcome": "No sale; customer undecided",
+    "customer_sentiment": "Skeptical and hesitant",
+    "category_scores": {
+        "greeting": 6.0,
+        "rapport": 2.0,
+        "needs_discovery": 1.0,
+        "product_knowledge": 2.0,
+        "objection_handling": 2.0,
+        "budget_qualification": 3.0,
+        "closing": 3.0,
+        "compliance": 1.0,
+        "professionalism": 4.0
+    },
+    "strengths": [
+        {
+            "title": "Clear introduction",
+            "timestamp": "00:04 - 00:12",
+            "evidence": "Yes. I'm Priya from Fitnova. We have a great waste to wait for package for you."
+        }
+    ],
+    "improvements": [
+        {
+            "title": "Provide detailed product information",
+            "timestamp": "00:46 - 00:48",
+            "suggestion": "Advisor should explain how the program works before asking for payment to build trust and address customer queries."
+        },
+        {
+            "title": "Handle objections more effectively",
+            "timestamp": "00:37 - 00:40",
+            "suggestion": "Instead of pressuring the customer, the advisor should empathize and provide more information to alleviate concerns."
+        },
+        {
+            "title": "Build rapport and engage the customer",
+            "timestamp": "Throughout the call",
+            "suggestion": "Advisor should ask questions to understand customer needs and preferences rather than pushing the sale."
+        }
+    ],
+    "red_flags": [
+        {
+            "severity": "High",
+            "timestamp": "00:46 - 00:48",
+            "statement": "Well, we'll explain everything after the payment.",
+            "reason": "Refusing to explain the product before payment is a poor sales practice and can damage trust."
+        },
+        {
+            "severity": "Medium",
+            "timestamp": "00:04 - 00:12",
+            "statement": "We have a great waste to wait for package for you.",
+            "reason": "The phrase 'waste to wait for package' appears to be a misstatement or unclear, which reduces professionalism."
+        }
+    ],
+    "summary": "The advisor greeted the customer clearly but failed to build rapport or properly discover the customer's needs. The product knowledge was insufficient, as the advisor refused to explain the program before payment, which likely contributed to the customer's hesitation. Objection handling was weak, relying on pressure tactics rather than addressing concerns. The call ended without a sale, and professionalism was impacted by unclear phrasing and dismissive responses."
+}

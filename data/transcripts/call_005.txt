@@ -1,0 +1,107 @@
+[00:00 - 00:04]
+Advisor (Ryan):
+Hello? Am I speaking with Emily?
+
+[00:04 - 00:05]
+Customer (Emily):
+Yes. This is Emily.
+
+[00:05 - 00:14]
+Advisor (Ryan):
+Hi, Emily. This is Ryan from Fitnova. You recently requested information about our weight management program. Is now a good time?
+
+[00:15 - 00:16]
+Customer (Emily):
+Yes. I can talk.
+
+[00:16 - 00:21]
+Advisor (Ryan):
+Great. Could you tell me what made you look for a fitness program?
+
+[00:22 - 00:28]
+Customer (Emily):
+Honestly, I have gained around 10 kilos over the last two years.
+
+[00:29 - 00:36]
+Advisor (Ryan):
+I understand. What do you think has con what do you think has contributed to the weight gain?
+
+[00:37 - 00:45]
+Customer (Emily):
+I work in marketing, and my job is pretty successful. And whenever I'm stressed, I end up ordering burgers or pizzas instead of cooking.
+
+[00:46 - 00:51]
+Advisor (Ryan):
+That sounds exhausting. How often would you say that happens?
+
+[00:52 - 00:55]
+Customer (Emily):
+Maybe three or four times a week.
+
+[00:56 - 01:02]
+Advisor (Ryan):
+Thanks for saying that. Have you been diagnosed with any medical condition like thyroid issues or diabetes?
+
+[01:03 - 01:05]
+Customer (Emily):
+No. Nothing like that.
+
+[01:05 - 01:07]
+Advisor (Ryan):
+And are you currently exercising?
+
+[01:08 - 01:12]
+Customer (Emily):
+I go for work sometimes, but nothing regular.
+
+[01:12 - 01:23]
+Advisor (Ryan):
+Got it. In your case, the focus shouldn't just be workout. We also help clients build healthier eating habits and manage emotional eating with guidance from a nutrition coach.
+
+[01:24 - 01:26]
+Customer (Emily):
+That's actually what I need.
+
+[01:26 - 01:31]
+Advisor (Ryan):
+May I ask what kind of budget you are comfortable with each month?
+
+[01:31 - 01:33]
+Customer (Emily):
+Around 5,000?
+
+[01:33 - 01:39]
+Advisor (Ryan):
+That works well. Based on everything you have said, I'd recommend starting with our three month coaching program.
+
+[01:39 - 01:42]
+Customer (Emily):
+Do I have to sign up today?
+
+[01:42 - 01:52]
+Advisor (Ryan):
+Not at all. The first step is free consultation with one of our coaches. They'll understand your routine and explain the program in detail. After that, you can decide.
+
+[01:52 - 01:53]
+Customer (Emily):
+That sounds reasonable.
+
+[01:54 - 02:00]
+Advisor (Ryan):
+Would tomorrow evening around 6PM work for your consultation?
+
+[02:00 - 02:01]
+Customer (Emily):
+Yeah. That
+
+[02:01 - 02:06]
+Advisor (Ryan):
+that's fine. Perfect. I'll book it, and you will receive a confirmation message shortly.
+
+[02:06 - 02:07]
+Customer (Emily):
+Thank you.
+
+[02:07 - 02:09]
+Advisor (Ryan):
+You are welcome. Have a wonderful day.

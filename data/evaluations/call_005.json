@@ -1,0 +1,47 @@
+{
+    "overall_score": 9.0,
+    "call_outcome": "Consultation booked",
+    "customer_sentiment": "Positive",
+    "category_scores": {
+        "greeting": 9.0,
+        "rapport": 8.5,
+        "needs_discovery": 9.0,
+        "product_knowledge": 9.0,
+        "objection_handling": 8.5,
+        "budget_qualification": 9.0,
+        "closing": 9.0,
+        "compliance": 9.0,
+        "professionalism": 9.0
+    },
+    "strengths": [
+        {
+            "title": "Effective Needs Discovery",
+            "timestamp": "00:16 - 01:12",
+            "evidence": "Advisor asked about weight gain causes, eating habits, medical conditions, and exercise routine to understand customer's needs."
+        },
+        {
+            "title": "Clear Explanation of Product Benefits",
+            "timestamp": "01:12 - 01:26",
+            "evidence": "Advisor explained that the program includes workout, nutrition coaching, and emotional eating management."
+        },
+        {
+            "title": "Professional and Courteous Closing",
+            "timestamp": "01:54 - 02:09",
+            "evidence": "Advisor offered a free consultation, scheduled it, and confirmed the booking politely."
+        }
+    ],
+    "improvements": [
+        {
+            "title": "Clarify Budget Currency",
+            "timestamp": "01:26 - 01:33",
+            "suggestion": "Advisor should confirm the currency or clarify the budget amount to avoid misunderstandings."
+        },
+        {
+            "title": "More Rapport Building",
+            "timestamp": "00:46 - 00:51",
+            "suggestion": "Advisor could have used more empathetic statements or small talk to build stronger rapport."
+        }
+    ],
+    "red_flags": [],
+    "summary": "The advisor conducted a well-structured call with effective needs discovery and clear product explanation. The call was professional and ended with a successful booking of a free consultation. Minor improvements include clarifying budget details and enhancing rapport building."
+}

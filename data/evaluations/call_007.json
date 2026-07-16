@@ -1,0 +1,64 @@
+{
+    "overall_score": 6.5,
+    "call_outcome": "Customer requested no further calls and to receive information via WhatsApp or email.",
+    "customer_sentiment": "Frustrated and irritated initially, but calmed down by the end of the call.",
+    "category_scores": {
+        "greeting": 7.0,
+        "rapport": 6.0,
+        "needs_discovery": 5.0,
+        "product_knowledge": 5.0,
+        "objection_handling": 7.0,
+        "budget_qualification": 0.0,
+        "closing": 6.0,
+        "compliance": 7.0,
+        "professionalism": 7.0
+    },
+    "strengths": [
+        {
+            "title": "Apologized and acknowledged customer's frustration",
+            "timestamp": "00:25 - 00:29",
+            "evidence": "Advisor said, 'I completely understand why you are upset. I feel frustrated too.'"
+        },
+        {
+            "title": "Offered to update customer preferences to avoid further calls",
+            "timestamp": "00:34 - 00:41",
+            "evidence": "Advisor said, 'If you would like, I can immediately mark your profile so no one else can contact you without your permission.'"
+        },
+        {
+            "title": "Offered alternative communication method",
+            "timestamp": "01:08 - 01:18",
+            "evidence": "Advisor said, 'Would you prefer if I simply send the program detail by WhatsApp or email? You can go through them whenever you are free.'"
+        }
+    ],
+    "improvements": [
+        {
+            "title": "Better introduction and identification",
+            "timestamp": "00:02 - 00:10",
+            "suggestion": "Advisor should clearly introduce himself and the company at the start to avoid confusion."
+        },
+        {
+            "title": "Address customer's prior negative experience earlier",
+            "timestamp": "00:10 - 00:22",
+            "suggestion": "Advisor should acknowledge the customer's frustration about multiple calls sooner and explain how this call is different."
+        },
+        {
+            "title": "More effective needs discovery",
+            "timestamp": "00:55 - 01:03",
+            "suggestion": "Advisor could have asked more open-ended questions to better understand the customer's current needs and interest."
+        },
+        {
+            "title": "Budget qualification missing",
+            "timestamp": "Throughout call",
+            "suggestion": "Advisor did not attempt to qualify the customer's budget or willingness to invest in the program."
+        }
+    ],
+    "red_flags": [
+        {
+            "severity": "medium",
+            "timestamp": "00:10 - 00:22",
+            "statement": "Customer: 'Again, FitNova. Seriously, how many people are going to call me? I've already told three different people that I'm busy.'",
+            "reason": "Multiple calls without coordination caused customer frustration and risked damaging company reputation."
+        }
+    ],
+    "summary": "The advisor demonstrated empathy and professionalism in handling a frustrated customer who had been repeatedly contacted by the company. He apologized sincerely, acknowledged the customer's irritation, and offered to update contact preferences and send information via alternative channels. However, the advisor could improve by providing a clearer introduction, addressing the customer's prior negative experience earlier, conducting more thorough needs discovery, and qualifying the customer's budget. The repeated calls from the company prior to this interaction represent a notable red flag impacting customer sentiment."
+}

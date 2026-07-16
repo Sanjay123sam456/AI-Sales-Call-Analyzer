@@ -1,0 +1,65 @@
+{
+    "overall_score": 6.5,
+    "call_outcome": "Customer showed interest but did not commit; asked to discuss with family and think about it.",
+    "customer_sentiment": "Neutral to slightly positive; interested but hesitant.",
+    "category_scores": {
+        "greeting": 7.0,
+        "rapport": 6.0,
+        "needs_discovery": 6.0,
+        "product_knowledge": 6.5,
+        "objection_handling": 5.5,
+        "budget_qualification": 5.0,
+        "closing": 6.0,
+        "compliance": 4.0,
+        "professionalism": 7.0
+    },
+    "strengths": [
+        {
+            "title": "Clear greeting and introduction",
+            "timestamp": "00:05 - 00:11",
+            "evidence": "Advisor introduced himself and referenced the customer's inquiry: 'Hello sir, अमन this side from Fit Innova. आपने muscle gain के लिए inquiry की थी?'"
+        },
+        {
+            "title": "Understanding customer goal",
+            "timestamp": "00:15 - 00:23",
+            "evidence": "Advisor asked about the customer's goal: 'वैसे goal क्या है आपका weight gain या muscle building?' and customer responded with specifics."
+        }
+    ],
+    "improvements": [
+        {
+            "title": "Provide detailed program information proactively",
+            "timestamp": "00:58 - 01:03",
+            "suggestion": "Instead of deferring explanation until after registration, advisor should explain what the program includes to build trust and transparency."
+        },
+        {
+            "title": "Handle objections with more empathy",
+            "timestamp": "00:46 - 00:57",
+            "suggestion": "When customer said they want to discuss with family, advisor pressured with 'regret' language. A softer approach would be better."
+        },
+        {
+            "title": "Clarify pricing and payment details clearly",
+            "timestamp": "01:03 - 01:20",
+            "suggestion": "Advisor gave partial pricing info but was vague about remaining costs, which may cause confusion or mistrust."
+        },
+        {
+            "title": "Improve compliance by avoiding high-pressure tactics",
+            "timestamp": "00:37 - 00:51",
+            "suggestion": "Statements like 'discounted pricing only for today' and 'if you miss today, you will regret' can be seen as pressure tactics and may violate compliance standards."
+        }
+    ],
+    "red_flags": [
+        {
+            "severity": "medium",
+            "timestamp": "00:37 - 00:51",
+            "statement": "अच्छा. और एक बात बताता हूँ. यह discounted pricing सिर्फ आज के लिए कल से price increase हो जाएंगे या कोई बताएगा नहीं.",
+            "reason": "Creates urgency pressure which may be considered a high-pressure sales tactic."
+        },
+        {
+            "severity": "medium",
+            "timestamp": "00:51 - 00:57",
+            "statement": "Sir honestly कर लीजिए पर अगर आज miss कर दिया तो बाद में regret होगा.",
+            "reason": "Uses fear of regret to pressure customer, which is a compliance concern."
+        }
+    ],
+    "summary": "The advisor demonstrated good greeting and basic needs discovery by identifying the customer's muscle building goal. However, the call lacked detailed product explanation and clear pricing information, which may have contributed to the customer's hesitation. The advisor used high-pressure sales tactics such as urgency and fear of regret, which could negatively impact compliance and customer trust. Improving objection handling with empathy and providing transparent information would enhance the call quality and increase chances of closing."
+}

@@ -1,0 +1,42 @@
+{
+    "overall_score": 9.0,
+    "call_outcome": "Free consultation booked for Sunday 11AM",
+    "customer_sentiment": "Positive and cooperative",
+    "category_scores": {
+        "greeting": 9.0,
+        "rapport": 9.0,
+        "needs_discovery": 9.0,
+        "product_knowledge": 8.5,
+        "objection_handling": 8.0,
+        "budget_qualification": 9.0,
+        "closing": 9.0,
+        "compliance": 9.0,
+        "professionalism": 9.0
+    },
+    "strengths": [
+        {
+            "title": "Effective Needs Discovery",
+            "timestamp": "00:19 - 01:15",
+            "evidence": "Advisor asked about main goal, medical issues, previous attempts, work schedule to customize plan."
+        },
+        {
+            "title": "Budget Qualification",
+            "timestamp": "01:25 - 01:47",
+            "evidence": "Advisor inquired about customer's monthly budget and aligned plan recommendation accordingly."
+        },
+        {
+            "title": "Professional Closing",
+            "timestamp": "02:04 - 02:27",
+            "evidence": "Advisor booked free consultation, confirmed timing, and assured follow-up via WhatsApp."
+        }
+    ],
+    "improvements": [
+        {
+            "title": "Stronger Objection Handling",
+            "timestamp": "01:47 - 02:02",
+            "suggestion": "Provide more confidence or alternative solutions when customer asked about no result guarantee."
+        }
+    ],
+    "red_flags": [],
+    "summary": "The advisor conducted a well-structured call with clear greeting, rapport building, thorough needs discovery, and appropriate budget qualification. The advisor demonstrated good product knowledge and professionalism throughout. The objection about result guarantee was handled adequately but could be improved with stronger reassurance. The call ended successfully with a booked free consultation and positive customer sentiment."
+}
