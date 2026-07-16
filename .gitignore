@@ -13,16 +13,16 @@ wheels/
 .env
 
 # Audio files — private recordings
-*.ogg
-*.wav
-*.mp3
-*.m4a
+#*.ogg
+#*.wav
+#*.mp3
+#*.m4a
 
 # Large raw Deepgram JSONs — not needed
 data/raw_transcripts/
 
 # Keep data/audio/ folder structure but not audio files
-data/audio/*
+# data/audio/*
 
 # Misc
 report.docx
