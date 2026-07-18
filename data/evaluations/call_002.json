@@ -3,7 +3,7 @@
     "call_outcome": "No sale; customer undecided",
     "customer_sentiment": "Skeptical and hesitant",
     "category_scores": {
-        "greeting": 6.0,
+        "greeting": 4.0,
         "rapport": 2.0,
         "needs_discovery": 1.0,
         "product_knowledge": 2.0,
@@ -17,24 +17,29 @@
         {
             "title": "Clear introduction",
             "timestamp": "00:04 - 00:12",
-            "evidence": "Yes. I'm Priya from Fitnova. We have a great waste to wait for package for you."
+            "evidence": "Yes. I'm Priya from Fitnova."
+        },
+        {
+            "title": "Mentioned offer urgency",
+            "timestamp": "00:27 - 00:33",
+            "evidence": "Actually, today is the last day of our offer. If you don't enroll today, the price will increase tomorrow."
         }
     ],
     "improvements": [
         {
-            "title": "Provide detailed product information",
+            "title": "Better needs discovery",
+            "timestamp": "00:41 - 00:45",
+            "suggestion": "Ask more questions to understand customer's needs before pitching."
+        },
+        {
+            "title": "Explain product details before payment",
             "timestamp": "00:46 - 00:48",
-            "suggestion": "Advisor should explain how the program works before asking for payment to build trust and address customer queries."
+            "suggestion": "Provide clear information about the program before asking for payment."
         },
         {
-            "title": "Handle objections more effectively",
-            "timestamp": "00:37 - 00:40",
-            "suggestion": "Instead of pressuring the customer, the advisor should empathize and provide more information to alleviate concerns."
-        },
-        {
-            "title": "Build rapport and engage the customer",
-            "timestamp": "Throughout the call",
-            "suggestion": "Advisor should ask questions to understand customer needs and preferences rather than pushing the sale."
+            "title": "Handle objections with empathy",
+            "timestamp": "00:25 - 00:33",
+            "suggestion": "Address customer's price concerns more empathetically rather than pressuring."
         }
     ],
     "red_flags": [
@@ -42,14 +47,14 @@
             "severity": "High",
             "timestamp": "00:46 - 00:48",
             "statement": "Well, we'll explain everything after the payment.",
-            "reason": "Refusing to explain the product before payment is a poor sales practice and can damage trust."
+            "reason": "Refusing to explain product details before payment can damage trust and compliance."
         },
         {
             "severity": "Medium",
             "timestamp": "00:04 - 00:12",
-            "statement": "We have a great waste to wait for package for you.",
-            "reason": "The phrase 'waste to wait for package' appears to be a misstatement or unclear, which reduces professionalism."
+            "statement": "We have a great waste to wait for package for you. You will definitely lose 10 kg in just thirty days.",
+            "reason": "Unrealistic and potentially misleading claims about guaranteed weight loss."
         }
     ],
-    "summary": "The advisor greeted the customer clearly but failed to build rapport or properly discover the customer's needs. The product knowledge was insufficient, as the advisor refused to explain the program before payment, which likely contributed to the customer's hesitation. Objection handling was weak, relying on pressure tactics rather than addressing concerns. The call ended without a sale, and professionalism was impacted by unclear phrasing and dismissive responses."
+    "summary": "The advisor introduced herself clearly and created urgency around the offer, but failed to build rapport or properly discover customer needs. The advisor made unrealistic claims and refused to explain the program before payment, which likely caused the customer's hesitation. Objection handling was weak and came across as pressuring rather than empathetic. Overall, the call lacked professionalism and compliance, resulting in no sale."
 }

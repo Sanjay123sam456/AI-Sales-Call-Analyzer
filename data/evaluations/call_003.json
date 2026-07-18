@@ -1,42 +1,60 @@
 {
-    "overall_score": 9.0,
-    "call_outcome": "Free consultation booked for Sunday 11AM",
-    "customer_sentiment": "Positive and cooperative",
+    "overall_score": 4.5,
+    "call_outcome": "Booked a free consultation for Sunday at 11 AM",
+    "customer_sentiment": "Neutral to slightly positive",
     "category_scores": {
-        "greeting": 9.0,
-        "rapport": 9.0,
-        "needs_discovery": 9.0,
-        "product_knowledge": 8.5,
-        "objection_handling": 8.0,
-        "budget_qualification": 9.0,
-        "closing": 9.0,
-        "compliance": 9.0,
-        "professionalism": 9.0
+        "greeting": 3.0,
+        "rapport": 3.0,
+        "needs_discovery": 5.0,
+        "product_knowledge": 4.0,
+        "objection_handling": 3.0,
+        "budget_qualification": 5.0,
+        "closing": 6.0,
+        "compliance": 5.0,
+        "professionalism": 4.0
     },
     "strengths": [
         {
-            "title": "Effective Needs Discovery",
-            "timestamp": "00:19 - 01:15",
-            "evidence": "Advisor asked about main goal, medical issues, previous attempts, work schedule to customize plan."
+            "title": "Effective closing and booking",
+            "timestamp": "02:06 - 02:27",
+            "evidence": "Advisor successfully booked a free consultation for Sunday at 11 AM with WhatsApp confirmation."
         },
         {
-            "title": "Budget Qualification",
-            "timestamp": "01:25 - 01:47",
-            "evidence": "Advisor inquired about customer's monthly budget and aligned plan recommendation accordingly."
-        },
-        {
-            "title": "Professional Closing",
-            "timestamp": "02:04 - 02:27",
-            "evidence": "Advisor booked free consultation, confirmed timing, and assured follow-up via WhatsApp."
+            "title": "Basic needs discovery",
+            "timestamp": "00:20 - 01:14",
+            "evidence": "Advisor asked about weight loss goals, age, medical issues, work setup, and motivation."
         }
     ],
     "improvements": [
         {
-            "title": "Stronger Objection Handling",
-            "timestamp": "01:47 - 02:02",
-            "suggestion": "Provide more confidence or alternative solutions when customer asked about no result guarantee."
+            "title": "Improve greeting clarity",
+            "timestamp": "00:01 - 00:11",
+            "suggestion": "Advisor's introduction was unclear and confusing: 'Rahul from Fitnova. Website, favorite loss inquiry critical.' A clearer, more professional greeting is needed."
+        },
+        {
+            "title": "Enhance communication and professionalism",
+            "timestamp": "Throughout the call",
+            "suggestion": "Advisor's language was often fragmented and unclear, e.g., 'coach follow-up motivation', 'Fill plan customized according to your schedule.' Improving sentence structure and clarity will enhance professionalism."
+        },
+        {
+            "title": "Build better rapport",
+            "timestamp": "00:27 - 00:35",
+            "suggestion": "Advisor's response 'Oh, congratulations. Time Age gap?' was confusing and did not build rapport effectively. More empathetic and clear engagement is recommended."
         }
     ],
-    "red_flags": [],
-    "summary": "The advisor conducted a well-structured call with clear greeting, rapport building, thorough needs discovery, and appropriate budget qualification. The advisor demonstrated good product knowledge and professionalism throughout. The objection about result guarantee was handled adequately but could be improved with stronger reassurance. The call ended successfully with a booked free consultation and positive customer sentiment."
+    "red_flags": [
+        {
+            "severity": "medium",
+            "timestamp": "00:05 - 00:11",
+            "statement": "Rahul from Fitnova. Website, favorite loss inquiry critical.",
+            "reason": "The advisor's introduction is unclear and unprofessional, which may confuse the customer and reduce trust."
+        },
+        {
+            "severity": "medium",
+            "timestamp": "00:27 - 00:35",
+            "statement": "Oh, congratulations. Time Age gap?",
+            "reason": "The advisor's statement is confusing and does not demonstrate effective communication or rapport building."
+        }
+    ],
+    "summary": "The advisor managed to book a consultation, which is a positive outcome. However, the call was hampered by unclear and fragmented communication, especially during the greeting and rapport-building phases. The advisor showed some effort in needs discovery and budget qualification but lacked professionalism and clarity throughout. Improving communication skills and greeting clarity would enhance the overall customer experience."
 }

@@ -1,11 +1,11 @@
 {
     "overall_score": 9.0,
-    "call_outcome": "Scheduled a free consultation appointment",
-    "customer_sentiment": "Positive and cooperative",
+    "call_outcome": "Scheduled a free consultation",
+    "customer_sentiment": "Positive",
     "category_scores": {
         "greeting": 9.0,
         "rapport": 8.5,
-        "needs_discovery": 9.5,
+        "needs_discovery": 9.0,
         "product_knowledge": 9.0,
         "objection_handling": 8.5,
         "budget_qualification": 9.0,
@@ -15,33 +15,33 @@
     },
     "strengths": [
         {
-            "title": "Effective Needs Discovery",
+            "title": "Effective needs discovery",
             "timestamp": "00:19 - 00:50",
             "evidence": "Advisor asked about fitness goals, age, height, medical conditions, and previous attempts at weight loss."
         },
         {
-            "title": "Clear Explanation of Program",
+            "title": "Clear explanation of product benefits",
             "timestamp": "00:50 - 01:02",
-            "evidence": "Advisor explained the program's components: personalized workouts, nutrition guidance, and weekly coach follow ups."
+            "evidence": "Advisor explained the program's personalized workouts, nutrition guidance, and weekly coach follow-ups."
         },
         {
-            "title": "Professional and Courteous Closing",
+            "title": "Professional and courteous closing",
             "timestamp": "01:48 - 02:05",
-            "evidence": "Advisor scheduled a free consultation and confirmed details politely, ending with a courteous farewell."
+            "evidence": "Advisor scheduled a free consultation and confirmed details politely, ending with 'Have a great day.'"
         }
     ],
     "improvements": [
         {
-            "title": "Minor Clarification on Program Details",
+            "title": "Minor clarity in product description",
             "timestamp": "01:16 - 01:28",
-            "suggestion": "Advisor could clarify what 'customized type plan' means to avoid confusion."
+            "suggestion": "Clarify terms like 'customized type plan' to avoid confusion."
         },
         {
-            "title": "Confirm Customer's Availability More Explicitly",
+            "title": "Confirm customer's availability earlier",
             "timestamp": "00:07 - 00:15",
-            "suggestion": "Advisor asked if it was a good time to talk but could have waited for a more explicit confirmation before proceeding."
+            "suggestion": "Ask if it's a good time to talk before diving into detailed questions to respect customer's time."
         }
     ],
     "red_flags": [],
-    "summary": "The advisor conducted a well-structured call with effective needs discovery, clear product explanation, and professional closing. The customer was engaged and agreed to a free consultation appointment. Minor improvements could be made in clarifying program details and confirming availability more explicitly, but overall the call was handled very well."
+    "summary": "The advisor conducted a professional and effective sales call by establishing rapport, thoroughly discovering customer needs, demonstrating product knowledge, qualifying budget, and closing by scheduling a free consultation. The customer responded positively throughout, and no compliance or professionalism issues were noted. Minor improvements could be made in product description clarity and initial time confirmation."
 }
